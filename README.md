@@ -1,7 +1,7 @@
 Json-to-csv-php
 ===============
 
-Convert json file to csv file
+Convert any json file to csv file
 
 Uses:
 =====
